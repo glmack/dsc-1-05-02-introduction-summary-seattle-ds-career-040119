@@ -2,39 +2,27 @@
 # Introduction - Summary
 
 ## Introduction
-This short lesson summarizes the topics we'll be covering in section 01 and why they'll be important to you as a Data Scientist.
+This lesson summarizes the topics we'll be covering in section 02 and why they'll be important to you as a Data Scientist.
 
 ## Objectives
 You will be able to:
 * Understand and explain what is covered in this section
 * Understand and explain why the section will help you to become a data scientist
 
-## Setting the Stage
-
-We start this section by looking at the kinds of problems that data science can solve and by giving a sense of the end to end process of "doing data science". We then get you set up with a professional data science environment with Git, GitHub, the command line, and the Anaconda Python distribution so you can start using industry standard tools from day 1.
-
-We also run you through the workflow that we'll be using for the projects so you can get comfortable with how to access and update content and get some practice using the industry standard tools we just set you up with! And then to bring it all together, we ask you to "code along" with us to complete your first (very simple) data science project.
-
-If you're new to Python (or programming), you may be a little overwhelmed at this point. Don't worry. We'll spend all of the rest of the course practicing and deepening your understanding of the materials we introduced in the first part of section 01.
-
 ## Coding in Python 
 
-Next, we introduce some of the most important elements of programming in Python. We start from the basics, but move fairly quickly. We cover variables, common data types, conditionals, lists and dictionaries. This may not all seem immediately relevant to data science, but it's designed to give you the tools that you'll need for all of your future projects in Python.
+We're going to spend most of this section deepening and widening your experience of programming in Python. We're going to introduce some of Pythons built in functions and methods, show you some more types of loops, and give you some practice of creating and using custom functions so you can efficiently reuse your code.
 
-## Visualize that data
+## Basic Statistics
 
-Finally, we take a little bit of time to introduce you to `Matplotlib` - one of the most popular tools in Python for generating visualizations.
+We're then going to take a break from coding by introducing some statistics - measures of centrality and dispersion - that will be crucial in understanding the data sets that you work with as a professional data scientist. We'll also get some more practice plotting graphs using Matplotlib and some coding practice by calculating statistics for some data sets we'll provide.
 
-<img src="https://matplotlib.org/_static/logo2.png" width=350>
+## Project Time!
 
-You will learn to plot some basic visualizations for simple datasets. These will include plotting bar graphs, histograms and scatter plots and adding axes labeling and title information to the plot.
-
-## End of Section Project
-
-We finish the section with a challenging project that brings together all of the skills introduced in section 1, by doing a basic analysis of Shakespeare's classic play: Macbeth.
-
-<img src="https://s3.pixers.pics/pixers/700/FO/51/62/73/20/700_FO51627320_38b000ce4e7073b9a223a545e94df174.jpg" width=500>
+Finally, we'll give you a project that will allow you to continue builing your confidence as a coder. We'll start by giving you just enough information on accepting user input and providing output in Python and will then ask you to build a simple calculator.
 
 ## Summary
 
-Remember, it's OK to feel a little uncomfortable. For some students, section 01 will be the most difficult as it introduces so many new concepts at once, but you'll continue to practice these day after day, until they become second nature. For those of you with a strong background in computing, please bear with us as we help everyone else to catch up. We've tried to introduce additional challenges for students who are finding the labs easy, so look out for the "Level Up (optional)" section in some of the labs to get some deeper practice with Python and visualization.
+This is another section where students will have very different experiences. If you're already a professional software developer with a degree in a quantative subject, it's not going to be the hardest section for you to complete. But please take the time to practice your skills and feel free to dig deeper with the optional "Level Up" content if you're done more quickly than your peers.
+
+If you're completely new to coding and/or stats, you will probably find this a fairly challenging section. We're continuing to introduce core programming concepts at quite a pace. Don't worry if you still feel overwhelmed as you work through this section or work on the projects. You're going to get to practice most of these skills on a daily or weekly basis for the rest of the course, so just keep on keeping on - you can do this!
