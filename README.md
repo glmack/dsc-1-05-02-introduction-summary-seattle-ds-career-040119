@@ -1,5 +1,5 @@
 
-# Introduction - Summary
+# Introduction
 
 ## Introduction
 This lesson summarizes the topics we'll be covering in section 02 and why they'll be important to you as a Data Scientist.
