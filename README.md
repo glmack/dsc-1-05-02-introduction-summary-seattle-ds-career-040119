@@ -36,21 +36,9 @@ We then spend a little bit of time introducing and giving you practice working w
 
 ### SQL in Pandas
 
-Finally we'll look at how you can use SQL statements right within a Pandas DataFrame, making it not just a tool to retrive 
-After a brief introduction to the most popular data science libraries in Python, section 03 takes you deeper into imporing and accessing data using the two key Pandas data structures - Series Aand DataFrames.
+Finally we'll look at how you can use SQL statements right within a Pandas DataFrame, making it not just a tool to retrive data, but also one you can use to operate on data within a DataFrame - whatever the original source might have been.
 
-## Summary Stats
-
-We then look at some of the methods built right into Pandas for generating descriptive statistics when doing your initial exploratory data analysis.
-
-## Customizing Visualizations
-
-We then look at how you can start to customize your visualizations in Matplotlin, and look at the data visualization capabilities exposed directly within Pandas for quick and efficient plotting.
-
-## Welcome to Kaggle
-
-We then introduce the very popular Boston Housing data set, and we use that as an excuse to get you set up on Kaggle - an important destination for any practicing data scientist. We then give you a project using the Boston Housing data to let you practice your statistical and visualization skills.
 
 ## Summary
 
-In this section, we're leveraging the programming and statistical concepts from earlier sections to provide you with additional practice working with various data sets.
+SQL is an incredible powerful language for working with highly structured data and is likely to be one of the key skills you'll use on a reegular basis as a practicing data scientist. 
