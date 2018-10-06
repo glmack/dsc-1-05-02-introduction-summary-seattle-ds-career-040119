@@ -11,7 +11,7 @@ You will be able to:
 
 ## All About SQL
 
-One of the biggest challenges for a data scientist is getting access to the data you need. In previous sections we showed you how to import data from csv and xls files. In this section, we're going to do a deep dive into the Structured Query Language (SQL - often pronounced as either "S - Q - L" or "sequel"). In many organizations, the majority of their data is stored in SQL databases, so it's incredibly important for a professional data scientist to be comfortable with retriving information using SQL.
+One of the biggest challenges as a data scientist is getting access to the data you need. In previous sections we showed you how to import data from csv and xls files. In this section, we're going to do a deep dive into the Structured Query Language (SQL - often pronounced as either "S - Q - L" or "sequel"). In many organizations, the majority of their data is stored in SQL databases, so it's incredibly important for a professional data scientist to be comfortable with retrieving information using SQL.
 
 ### Database Basics
 
@@ -19,7 +19,7 @@ In the next couple of lessons, we'll make sure you can connect to a SQL database
 
 ### SELECT
 
-We then explore the command you're going to use most often - the `SELECT` statement which is used to retrive data from a database.
+We then explore the command you're going to use most often - the `SELECT` statement which is used to retrieve data from a database.
 
 ### Filtering and Ordering
 
@@ -36,7 +36,7 @@ We then spend a little bit of time introducing and giving you practice working w
 
 ### SQL in Pandas
 
-Finally we'll look at how you can use SQL statements within a Pandas DataFrame, making it not just a tool to retrive data, but also one you can use to operate on data within a DataFrame - whatever the original source might have been.
+Finally we'll look at how you can use SQL statements within a Pandas DataFrame, making it not just a tool to retrieve data, but also one you can use to operate on data within a DataFrame - whatever the original source might have been.
 
 
 ## Summary
